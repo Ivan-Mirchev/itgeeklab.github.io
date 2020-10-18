@@ -10,3 +10,6 @@ Get-Process -Name PowerShell
 `
 
 Also some other stuff later
+`powershell
+Get-Command -syntax
+`
