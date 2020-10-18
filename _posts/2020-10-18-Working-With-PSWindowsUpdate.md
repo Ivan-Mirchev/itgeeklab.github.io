@@ -3,7 +3,7 @@ published: true
 ---
 I the following post I will demostrate an examples working with PSWindowsUpdate module and the challanges I had ...
 
-`trying code with backtick`
+`powershell trying code with backtick`
 
     And again with four spaces
 ```
