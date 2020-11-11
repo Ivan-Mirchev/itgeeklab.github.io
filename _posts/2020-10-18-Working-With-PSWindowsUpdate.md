@@ -22,6 +22,9 @@ get-service -Name Bits
 <h1> h1 </h1>
 <h2> H2 </h2>
 
+<p style="color:red">This is a paragraph.</p>
+<p style="color:blue">This is another paragraph.</p>
+
 <p>
 {% highlight powershell %}
 Invoke-Command -ComputerName Server1 -ScriptBlock {Get-Service -Name BITS}
