@@ -20,6 +20,6 @@ get-service -Name Bits
 ```
 
 
-{% highlight javascript %}
-document.write("JavaScript is a simple language for javatpoint learners");
+{% highlight powershell %}
+Invoke-Command -ComputerName Server1 -ScriptBlock {Get-Service -Name BITS}
 {% endhighlight %}
