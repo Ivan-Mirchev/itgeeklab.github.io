@@ -12,12 +12,14 @@ I the following post I will demostrate an examples working with PSWindowsUpdate 
 Only with three backtics
 get-service -name bits
 ```
-
+<p style="font-size:11px">
 ```powershell
 get-service -Name Bits
 
 
 ```
+
+</p>
 
 <h1> h1 </h1>
 <h2> H2 </h2>
